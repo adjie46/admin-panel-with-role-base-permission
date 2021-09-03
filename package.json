@@ -1,0 +1,20 @@
+{
+  "name": "admin-panel-with-role-base-permission",
+  "version": "1.0.0",
+  "description": "Admin Panel With Role Permission Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adjie46/admin-panel-with-role-base-permission.git"
+  },
+  "keywords": ["Nodejs Admin Panel With Role Base Permission","Admin Panel"],
+  "author": "Adjie Kurniawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adjie46/admin-panel-with-role-base-permission/issues"
+  },
+  "homepage": "https://github.com/adjie46/admin-panel-with-role-base-permission#readme"
+}
